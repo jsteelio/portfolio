@@ -1,6 +1,7 @@
 <style>
 .video-js .vjs-fullscreen-control.vjs-control {
   display: inline!important;
+  color: blue;
 }
 .video-js .vjs-control-bar .vjs-audio-button {
     display: inline!important;
